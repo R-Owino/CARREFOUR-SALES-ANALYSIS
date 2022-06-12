@@ -31,7 +31,7 @@ The datasets can be found in the following links:
 
 ## FINAL PUBLICATIONS
 These are the publications of the different sections:
-1. Dimensionality reduction and feature selection - [link]()
+1. Dimensionality reduction and feature selection - [link](https://rpubs.com/r_owino/913802)
 2. Associative analysis - [link](https://rpubs.com/r_owino/913779)
 3. Anomaly detection - [link](https://rpubs.com/r_owino/913775)
 
